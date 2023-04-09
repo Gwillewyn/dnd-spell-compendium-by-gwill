@@ -7,29 +7,29 @@
 		"email": "gwillewyn@gmail.com",
         "discord": "Gwillewyn#8953"
 	}],
-	"version": "0.0.1",
+	"version": "0.0.1a",
 	"compatibility": {
 		"minimum": "5",
 		"verified": "10"
 	},
 	"url": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill",
-	"manifest": "",
-	"download": "",
+	"manifest": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill/releases/download/0.0.1a/module.json",
+	"download": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill/releases/download/0.0.1a/dnd-spell-icons-by-gwill.zip",
     "license": "https://creativecommons.org/licenses/by/3.0/",
 	"media": [
 		{
 			"type": "icon",
-			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-item-icons-by-gwill/main/Examples/Icon.webp",
+			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Icon.webp",
 			"caption": "Gwillewyn"
 		},
 		{
 		  "type": "screenshot",
-		  "url": "",
+		  "url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Screenshot.webp",
 		  "caption": "<Choosing icon in character sheet.>"
 		},
 		{
 		  "type": "cover",
-		  "url": "",
+		  "url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Cover.webp",
 		  "caption": "D&D Spell Icons by Gwillewyn"
 		}
 	  ]
