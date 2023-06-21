@@ -20,13 +20,6 @@
 			"entity": "Item",
 			"type": "Item",
 			"system": "dnd5e"
-		},
-		{
-			"name": "module-spells",
-			"label": "Module Spells",
-			"path": "./packs/spells.db",
-			"entity": "Spell",
-			"type": "Spell"
 		}
 	],
 
