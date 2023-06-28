@@ -1,6 +1,6 @@
 {
 	"id": "dnd-spell-icons-by-gwill",
-	"title": "D&D Spell Icons by Gwillewyn",
+	"title": "D&D Spell Compendium with icons by Gwillewyn",
 	"description": "Colour icons for D&D spells in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
 		"name": "Gwillewyn",
@@ -9,19 +9,18 @@
 	}],
 	"version": "0.0.1a",
 	"compatibility": {
-		"minimum": "5",
-		"verified": "10"
+		"minimum": "11",
+		"verified": "11"
 	},
 
 	"packs": [{
-			"name": "module-items",
-			"label": "Module Items",
-			"path": "./packs/items.db",
-			"entity": "Item",
-			"type": "Item",
-			"system": "dnd5e"
-		}
-	],
+		"name": "spells-items",
+		"label": "Spells with Icons by Gwillewyn",
+		"path": "./packs/spells.db",
+		"entity": "Item",
+		"type": "Item",
+		"system": "dnd5e"
+	}],
 
 
 	"url": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill",
