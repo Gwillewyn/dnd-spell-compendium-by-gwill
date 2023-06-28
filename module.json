@@ -1,18 +1,20 @@
 {
-	"id": "dnd-spell-icons-by-gwill",
+	"id": "dnd-spell-compendium-by-gwill",
+	"name": "dnd-spell-compendium-by-gwill",
 	"title": "D&D Spell Compendium with icons by Gwillewyn",
 	"description": "Colour icons for D&D spells in svg-format based on icons and aesthetics from game-icons.net",
+	"version": "0.0.1a",
 	"authors": [{
 		"name": "Gwillewyn",
 		"email": "gwillewyn@gmail.com",
 		"discord": "Gwillewyn#8953"
 	}],
-	"version": "0.0.1a",
-	"compatibility": {
-		"minimum": "11",
-		"verified": "11"
-	},
-
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "11"
+    },
 	"packs": [{
 		"name": "spells-items",
 		"label": "Spells with Icons by Gwillewyn",
@@ -23,23 +25,23 @@
 	}],
 
 
-	"url": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill",
-	"manifest": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill/releases/download/0.0.1a/module.json",
-	"download": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill/releases/download/0.0.1a/dnd-spell-icons-by-gwill.zip",
+	"url": "https://github.com/Gwillewyn/dnd-spell-compendium-by-gwill",
+	"manifest": "https://github.com/Gwillewyn/dnd-spell-compendium-by-gwill/releases/download/0.0.1a/module.json",
+	"download": "https://github.com/Gwillewyn/dnd-spell-compendium-by-gwill/releases/download/0.0.1a/dnd-spell-compendium-by-gwill.zip",
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"media": [{
 			"type": "icon",
-			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Icon.webp",
+			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-compendium-by-gwill/main/Examples/Icon.webp",
 			"caption": "Gwillewyn"
 		},
 		{
 			"type": "screenshot",
-			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Screenshot.webp",
+			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-compendium-by-gwill/main/Examples/Screenshot.webp",
 			"caption": "<Choosing icon in character sheet.>"
 		},
 		{
 			"type": "cover",
-			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Cover.webp",
+			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-compendium-by-gwill/main/Examples/Cover.webp",
 			"caption": "D&D Spell Icons by Gwillewyn"
 		}
 	]
