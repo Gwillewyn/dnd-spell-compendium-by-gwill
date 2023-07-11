@@ -1,5 +1,6 @@
 {
 	"id": "dnd-spell-icons-by-gwill",
+	"name": "dnd-spell-icons-by-gwill",
 	"title": "D&D Spell Compendium with icons by Gwillewyn",
 	"description": "Colour icons for D&D spells in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
@@ -8,9 +9,13 @@
 		"discord": "Gwillewyn#8953"
 	}],
 	"version": "0.0.1a",
+
+	"minimumCoreVersion": 9,
+	"compatibleCoreVersion": "11.305",
+
 	"compatibility": {
-		"minimum": "11",
-		"verified": "11"
+		"minimum": 9,
+		"verified": "11.305"
 	},
 
 	"packs": [{
@@ -21,7 +26,6 @@
 		"type": "Item",
 		"system": "dnd5e"
 	}],
-
 
 	"url": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill",
 	"manifest": "https://github.com/Gwillewyn/dnd-spell-icons-by-gwill/releases/download/0.0.1a/module.json",
@@ -35,7 +39,7 @@
 		{
 			"type": "screenshot",
 			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-spell-icons-by-gwill/main/Examples/Screenshot.webp",
-			"caption": "<Choosing icon in character sheet.>"
+			"caption": "Choosing icon in character sheet."
 		},
 		{
 			"type": "cover",
